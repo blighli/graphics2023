@@ -76,13 +76,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)Project1\openGL配置文件\glew-2.2.0\include;$(SolutionDir)Project1\openGL配置文件\glfw-3.3.8.bin.WIN32\include;$(SolutionDir)Project1\openGL配置文件\glut-3.7\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Project1\openGL配置文件\glew-2.2.0\include;$(SolutionDir)Project1\openGL配置文件\glfw-3.3.8.bin.WIN32\include;$(SolutionDir)Project1\openGL配置文件\glut-3.7\include;$(SolutionDir)Project1\openGL配置文件\gltools\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(SolutionDir)Project1\openGL配置文件\glew-2.2.0\lib\Release\Win32;$(SolutionDir)Project1\openGL配置文件\glfw-3.3.8.bin.WIN32\lib-vc2022;$(SolutionDir)Project1\openGL配置文件\glut-3.7\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>opengl32.lib;glew32s.lib;glfw3.lib;glut32.lib;glut.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)Project1\openGL配置文件\glew-2.2.0\lib\Release\Win32;$(SolutionDir)Project1\openGL配置文件\glfw-3.3.8.bin.WIN32\lib-vc2022;$(SolutionDir)Project1\openGL配置文件\glut-3.7\lib;$(SolutionDir)Project1\openGL配置文件\gltools\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opengl32.lib;glew32s.lib;glfw3.lib;glut32.lib;glut.lib;gltools.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -133,7 +133,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Block.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
