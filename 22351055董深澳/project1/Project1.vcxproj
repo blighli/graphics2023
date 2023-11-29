@@ -78,8 +78,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\研究生课程\三维动画\Project\22351055董深澳\Project1\glfwlibs\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\研究生课程\三维动画\Project\22351055董深澳\Project1\glfwlibs\libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>glfwlibs\include;$(IncludePath)</IncludePath>
+    <LibraryPath>glfwlibs\libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
