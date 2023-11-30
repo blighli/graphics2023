@@ -14,11 +14,21 @@ static uint32_t g_graphicsQueueFamilyIndex{static_cast<uint32_t>(-1)};
 static vk::Queue g_graphicsQueue{VK_NULL_HANDLE};
 static vk::Device g_device{VK_NULL_HANDLE};
 static vk::DescriptorPool g_descriptorPool{VK_NULL_HANDLE};
+static vk::PipelineCache g_pipelineCache{VK_NULL_HANDLE};
+static vk::Pipeline g_graphicsPipeline{VK_NULL_HANDLE};
 static vk::DebugReportCallbackEXT g_debugReporter{VK_NULL_HANDLE};
 
 static ImGui_ImplVulkanH_Window g_mainWindow{};
 static uint32_t g_minImageBufferCount = 3;
 static bool g_rebuildSwapchain = false;
+
+static unsigned char g_vertShaderSPVCode[] = {
+#include <triangle.vert.spv.h>
+};
+
+static unsigned char g_fragShaderSPVCode[] = {
+#include <triangle.frag.spv.h>
+};
 
 #ifdef _DEBUG
 static VKAPI_ATTR VkBool32 VKAPI_CALL debug_report(VkDebugReportFlagsEXT flags, VkDebugReportObjectTypeEXT objectType, uint64_t object, size_t location, int32_t messageCode, const char *pLayerPrefix, const char *pMessage, void *pUserData)
@@ -35,6 +45,67 @@ static void check_vk_result(VkResult res)
     std::cerr << "[Vulkan] Error: VkResult = " << res << "\n";
     if (res < 0)
         abort();
+}
+
+static void render_frame(ImDrawData *draw_data)
+{
+    vk::SwapchainKHR swapchain = g_mainWindow.Swapchain;
+    vk::Semaphore acquireSemaphore = g_mainWindow.FrameSemaphores[g_mainWindow.FrameIndex].ImageAcquiredSemaphore;
+    vk::Semaphore waitSemaphore = g_mainWindow.FrameSemaphores[g_mainWindow.FrameIndex].RenderCompleteSemaphore;
+    vk::CommandBuffer buffer = g_mainWindow.Frames[g_mainWindow.FrameIndex].CommandBuffer;
+    vk::Fence fence = g_mainWindow.Frames[g_mainWindow.FrameIndex].Fence;
+    vk::ClearValue clearValue = vk::ClearColorValue{.0f, .0f, .0f, 1.f};
+
+    auto [status, res] = g_device.acquireNextImageKHR(swapchain, UINT64_MAX, acquireSemaphore, {});
+    g_mainWindow.FrameIndex = res;
+    assert(status >= vk::Result::eSuccess);
+    if (status == vk::Result::eErrorOutOfDateKHR || status == vk::Result::eSuboptimalKHR)
+    {
+        g_rebuildSwapchain = true;
+        return;
+    }
+
+    {
+        g_device.waitForFences(fence, VK_TRUE, UINT64_MAX);
+        g_device.resetFences(fence);
+    }
+    {
+        vk::CommandPool pool = g_mainWindow.Frames[g_mainWindow.FrameIndex].CommandPool;
+        g_device.resetCommandPool(pool);
+        buffer.begin(vk::CommandBufferBeginInfo(vk::CommandBufferUsageFlagBits::eOneTimeSubmit));
+    }
+    {
+        vk::RenderPass pass = g_mainWindow.RenderPass;
+        vk::Framebuffer frameBuffer = g_mainWindow.Frames[g_mainWindow.FrameIndex].Framebuffer;
+        vk::Rect2D rect{{0, 0}, {static_cast<uint32_t>(g_mainWindow.Width), static_cast<uint32_t>(g_mainWindow.Height)}};
+        vk::RenderPassBeginInfo beginInfo;
+        beginInfo.setRenderPass(pass)
+            .setFramebuffer(frameBuffer)
+            .setRenderArea(rect)
+            .setClearValues(clearValue);
+        buffer.beginRenderPass(beginInfo, vk::SubpassContents::eInline);
+    }
+
+    // RENDER SOMETHING HERE...
+    {
+        buffer.bindPipeline(vk::PipelineBindPoint::eGraphics, g_graphicsPipeline);
+        buffer.setViewport(0, vk::Viewport(.0f, .0f, g_mainWindow.Width, g_mainWindow.Height, .0f, 1.f));
+        buffer.setScissor(0, vk::Rect2D({}, {static_cast<uint32_t>(g_mainWindow.Width), static_cast<uint32_t>(g_mainWindow.Height)}));
+        buffer.draw(3, 1, 0, 0);
+    }
+    ImGui_ImplVulkan_RenderDrawData(draw_data, buffer);
+
+    buffer.endRenderPass();
+    buffer.end();
+    {
+        vk::PipelineStageFlags stageFlag = vk::PipelineStageFlagBits::eColorAttachmentOutput;
+        vk::SubmitInfo submitInfo;
+        submitInfo.setCommandBuffers(buffer)
+            .setWaitDstStageMask(stageFlag)
+            .setWaitSemaphores(acquireSemaphore)
+            .setSignalSemaphores(waitSemaphore);
+        g_graphicsQueue.submit(submitInfo, fence);
+    }
 }
 
 int main(int argc, char **argv)
@@ -147,6 +218,11 @@ int main(int argc, char **argv)
         g_descriptorPool = g_device.createDescriptorPool(createInfo, g_allocCallbacks);
     }
 
+    {
+        vk::PipelineCacheCreateInfo createInfo;
+        g_pipelineCache = g_device.createPipelineCache(createInfo, g_allocCallbacks);
+    }
+
     VkSurfaceKHR surfaceBase;
     if (SDL_Vulkan_CreateSurface(window, g_instance, &surfaceBase) == SDL_FALSE)
     {
@@ -158,6 +234,88 @@ int main(int argc, char **argv)
 
     int width, height;
     SDL_GetWindowSize(window, &width, &height);
+
+    {
+        vk::GraphicsPipelineCreateInfo createInfo;
+
+        // pre: dynamic state
+        std::vector<vk::DynamicState> requiredDynamicStates{vk::DynamicState::eViewport, vk::DynamicState::eScissor};
+        vk::PipelineDynamicStateCreateInfo dynamicStateInfo;
+        dynamicStateInfo.setDynamicStates(requiredDynamicStates);
+
+        // vertex input
+        vk::PipelineVertexInputStateCreateInfo inputStateInfo;
+        inputStateInfo.setVertexBindingDescriptionCount(0U)
+            .setPVertexBindingDescriptions(nullptr)
+            .setVertexAttributeDescriptionCount(0U)
+            .setPVertexAttributeDescriptions(nullptr);
+
+        // (vertex) input assembly
+        vk::PipelineInputAssemblyStateCreateInfo inputAssemblyInfo;
+        inputAssemblyInfo.setPrimitiveRestartEnable(false)
+            .setTopology(vk::PrimitiveTopology::eTriangleList);
+
+        // viewport & scissor
+        vk::Viewport viewport{.0f, .0f, static_cast<float>(width), static_cast<float>(height), .0f, 1.f};
+        vk::Rect2D scissor{{}, {static_cast<uint32_t>(width), static_cast<uint32_t>(height)}};
+        vk::PipelineViewportStateCreateInfo viewportStateInfo;
+        viewportStateInfo.setViewports(viewport).setScissors(scissor);
+
+        // stage shaders
+        vk::ShaderModuleCreateInfo shaderCreateInfo;
+        shaderCreateInfo.setPCode((uint32_t *)g_vertShaderSPVCode).setCodeSize(sizeof(g_vertShaderSPVCode));
+        vk::ShaderModule vertShaderModule = g_device.createShaderModule(shaderCreateInfo, g_allocCallbacks);
+        shaderCreateInfo.setPCode((uint32_t *)g_fragShaderSPVCode).setCodeSize(sizeof(g_fragShaderSPVCode));
+        vk::ShaderModule fragShaderModule = g_device.createShaderModule(shaderCreateInfo, g_allocCallbacks);
+        std::vector<vk::PipelineShaderStageCreateInfo> shaderStageInfos;
+        shaderStageInfos.resize(2);
+        shaderStageInfos[0].setStage(vk::ShaderStageFlagBits::eVertex).setModule(vertShaderModule).setPName("main");
+        shaderStageInfos[1].setStage(vk::ShaderStageFlagBits::eFragment).setModule(fragShaderModule).setPName("main");
+
+        // rasterization
+        vk::PipelineRasterizationStateCreateInfo rasStateInfo;
+        rasStateInfo.setRasterizerDiscardEnable(false)
+            .setPolygonMode(vk::PolygonMode::eFill)
+            .setFrontFace(vk::FrontFace::eCounterClockwise)
+            .setCullMode(vk::CullModeFlagBits::eBack)
+            .setLineWidth(1.f);
+
+        // post: multisample
+        vk::PipelineMultisampleStateCreateInfo multisampleStateInfo;
+        multisampleStateInfo.setSampleShadingEnable(false)
+            .setRasterizationSamples(vk::SampleCountFlagBits::e1);
+
+        // post: depth & stencil test -- skip
+
+        // post: color blending
+        vk::PipelineColorBlendAttachmentState attchState;
+        attchState.setBlendEnable(false)
+            .setColorWriteMask(vk::ColorComponentFlagBits::eR | vk::ColorComponentFlagBits::eG | vk::ColorComponentFlagBits::eB | vk::ColorComponentFlagBits::eA);
+        vk::PipelineColorBlendStateCreateInfo colorBlendStateInfo;
+        colorBlendStateInfo.setLogicOpEnable(false)
+            .setAttachments(attchState);
+
+        createInfo.setPDynamicState(&dynamicStateInfo)
+            .setPVertexInputState(&inputStateInfo)
+            .setPInputAssemblyState(&inputAssemblyInfo)
+            .setStages(shaderStageInfos)
+            .setPRasterizationState(&rasStateInfo)
+            .setPMultisampleState(&multisampleStateInfo)
+            .setPColorBlendState(&colorBlendStateInfo);
+        auto [state, res] = g_device.createGraphicsPipeline(VK_NULL_HANDLE, createInfo, g_allocCallbacks);
+        if (state != vk::Result::eSuccess)
+        {
+            std::cerr << "[Vulkan] Failed to create graphics pipeline.\n";
+            abort();
+            return -1;
+        }
+        g_graphicsPipeline = res;
+
+        // collect unuseful shader modules
+        g_device.destroy(vertShaderModule, g_allocCallbacks);
+        g_device.destroy(fragShaderModule, g_allocCallbacks);
+    }
+
     {
         g_mainWindow.Surface = surface;
 
@@ -225,6 +383,8 @@ int main(int argc, char **argv)
                 done = true;
             if (event.type == SDL_WINDOWEVENT && event.window.event == SDL_WINDOWEVENT_CLOSE && event.window.windowID == SDL_GetWindowID(window))
                 done = true;
+            if (event.type == SDL_WINDOWEVENT && (event.window.event == SDL_WINDOWEVENT_RESIZED || event.window.event == SDL_WINDOWEVENT_SIZE_CHANGED) && event.window.windowID == SDL_GetWindowID(window))
+                g_rebuildSwapchain = true;
         }
 
         if (g_rebuildSwapchain)
@@ -250,57 +410,10 @@ int main(int argc, char **argv)
         if (!is_minimized)
         {
             g_mainWindow.ClearValue.color = {.0f, .0f, .0f, 1.f};
-            vk::ClearValue clearValue = vk::ClearColorValue{.0f, .0f, .0f, 1.f};
             vk::SwapchainKHR swapchain = g_mainWindow.Swapchain;
-            ImGui_ImplVulkanH_Frame *fd = &g_mainWindow.Frames[g_mainWindow.FrameIndex];
-            vk::Semaphore acquireSemaphore = g_mainWindow.FrameSemaphores[g_mainWindow.FrameIndex].ImageAcquiredSemaphore;
             vk::Semaphore waitSemaphore = g_mainWindow.FrameSemaphores[g_mainWindow.FrameIndex].RenderCompleteSemaphore;
-            vk::CommandBuffer buffer = fd->CommandBuffer;
-            vk::Fence fence = fd->Fence;
             // render contexts
-            {
-                auto [status, res] = g_device.acquireNextImageKHR(swapchain, UINT64_MAX, acquireSemaphore, {});
-                g_mainWindow.FrameIndex = res;
-                if (status == vk::Result::eErrorOutOfDateKHR || status == vk::Result::eSuboptimalKHR)
-                    g_rebuildSwapchain = true;
-                else
-                {
-                    {
-                        g_device.waitForFences(fence, VK_TRUE, UINT64_MAX);
-                        g_device.resetFences(fence);
-                    }
-                    {
-                        vk::CommandPool pool = fd->CommandPool;
-                        g_device.resetCommandPool(pool);
-                        buffer.begin(vk::CommandBufferBeginInfo(vk::CommandBufferUsageFlagBits::eOneTimeSubmit));
-                    }
-                    {
-                        vk::RenderPass pass = g_mainWindow.RenderPass;
-                        vk::Framebuffer frameBuffer = fd->Framebuffer;
-                        vk::Rect2D rect{{0, 0}, {static_cast<uint32_t>(width), static_cast<uint32_t>(height)}};
-                        vk::RenderPassBeginInfo beginInfo;
-                        beginInfo.setRenderPass(pass)
-                            .setFramebuffer(frameBuffer)
-                            .setRenderArea(rect)
-                            .setClearValues(clearValue);
-                        buffer.beginRenderPass(beginInfo, vk::SubpassContents::eInline);
-                    }
-
-                    ImGui_ImplVulkan_RenderDrawData(draw_data, fd->CommandBuffer);
-
-                    buffer.endRenderPass();
-                    buffer.end();
-                    {
-                        vk::PipelineStageFlags stageFlag = vk::PipelineStageFlagBits::eColorAttachmentOutput;
-                        vk::SubmitInfo submitInfo;
-                        submitInfo.setCommandBuffers(buffer)
-                            .setWaitDstStageMask(stageFlag)
-                            .setWaitSemaphores(acquireSemaphore)
-                            .setSignalSemaphores(waitSemaphore);
-                        g_graphicsQueue.submit(submitInfo, fence);
-                    }
-                }
-            }
+            render_frame(draw_data);    
             // present contexts
             if (!g_rebuildSwapchain)
             {
@@ -320,6 +433,7 @@ int main(int argc, char **argv)
 
     ImGui_ImplVulkanH_DestroyWindow(g_instance, g_device, &g_mainWindow, reinterpret_cast<const VkAllocationCallbacks *>(&g_allocCallbacks));
     {
+        g_device.destroy(g_graphicsPipeline, g_allocCallbacks);
         g_device.destroy(g_descriptorPool, g_allocCallbacks);
 #ifdef _DEBUG
         g_instance.destroy(g_debugReporter, g_allocCallbacks);

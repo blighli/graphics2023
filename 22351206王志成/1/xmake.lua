@@ -7,5 +7,8 @@ add_requires("vulkansdk")
 
 target("Renderer")
     set_kind("binary")
+    add_rules("utils.glsl2spv", {bin2c = true, outputdir = "shaders/compiled"})
+    add_includedirs("./shaders/compiled")
     add_files("./main.cpp")
+    add_files("./shaders/*.vert", "./shaders/*.frag")
     add_packages("vulkansdk", "imgui")
