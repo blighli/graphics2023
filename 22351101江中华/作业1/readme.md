@@ -1,25 +1,21 @@
 # 作业1
-**江中华22351101**
-
-
+> **江中华 22351101**
 
 ### OpenGL
 
-程序入口：MMOpenGL.cpp
-
-
-
-运行结果：
-
-
-
-
+程序入口MMOpenGL.cpp 和 运行结果：
+<div  align="center"> 
+<img src="./img/openGL_cpp_file.jpg/" width="300" />
+<img src="./img/openGL_cpp.png/" width="600" />
+</div>
 
 ### pyOpenGL
 
 运行结果：
-
-
+<div  align="center"> 
+<img src="./img/triangle.jpg/" width="500" />
+<img src="./img/cube.jpg/" width="500" /><br/>
+</div>
 
 ### 参考资料
 
