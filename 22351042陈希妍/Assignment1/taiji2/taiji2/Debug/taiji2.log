@@ -1,0 +1,19 @@
+﻿  taiji2.cpp
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(14): warning C4305: “参数”: 从“double”到“GLclampf”截断
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(28): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(29): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(33): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(34): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(40): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(41): warning C4244: “=”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(45): warning C4305: “=”: 从“double”到“GLfloat”截断
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(48): warning C4244: “=”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(49): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(52): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(56): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\本科\project2015\opengl\taiji2\taiji2\taiji2.cpp(57): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  stdafx.cpp
+  正在生成代码...
+  taiji2.vcxproj -> F:\本科\Project2015\OpenGL\taiji2\Debug\taiji2.exe
+  taiji2.vcxproj -> F:\本科\Project2015\OpenGL\taiji2\Debug\taiji2.pdb (Full PDB)
