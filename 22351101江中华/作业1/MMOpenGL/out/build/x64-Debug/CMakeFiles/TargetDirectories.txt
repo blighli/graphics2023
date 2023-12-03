@@ -1,0 +1,8 @@
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/MMGL/CMakeFiles/MMGL.dir
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/MMGL/CMakeFiles/edit_cache.dir
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/MMGL/CMakeFiles/rebuild_cache.dir
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/MMOpenGL/CMakeFiles/edit_cache.dir
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/MMOpenGL/CMakeFiles/MMOpenGL.dir
+C:/Users/12171/Desktop/graphics/MMOpenGL/MMOpenGL/out/build/x64-Debug/MMOpenGL/CMakeFiles/rebuild_cache.dir
