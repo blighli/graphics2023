@@ -1,0 +1,9 @@
+﻿  Block.cpp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLBatch.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLBatch.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLShaderManager.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLShaderManager.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTools.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLTools.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTriangleBatch.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLTriangleBatch.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(math3d.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(math3d.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  Project1.vcxproj -> D:\3D\homework\graphics2023\22351137龙咏柳\Project1\Debug\Project1.exe
