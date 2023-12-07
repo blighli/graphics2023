@@ -1,0 +1,6 @@
+﻿  MyOpenGLWidget.cpp
+D:\Workspace\University\Master\222\graphics2023\22351232熊礽荣\hw01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\222\graphics2023\22351232熊礽荣\hw01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\222\graphics2023\22351232熊礽荣\hw01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\222\graphics2023\22351232熊礽荣\hw01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  homework01.vcxproj -> D:\Workspace\University\Master\222\graphics2023\22351232熊礽荣\hw01\x64\Release\homework01.exe
