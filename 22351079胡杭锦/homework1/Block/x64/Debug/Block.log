@@ -1,0 +1,392 @@
+﻿  Block.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(77,20): error C2061: 语法错误: 标识符“GLenum”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(86,52): error C2061: 语法错误: 标识符“GLuint”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(89,32): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(90,31): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(91,31): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(92,34): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(100,23): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(103,23): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(106,22): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(109,30): error C2061: 语法错误: 标识符“GLuint”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(110,31): error C2061: 语法错误: 标识符“GLuint”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(113,11): error C3646: “primitiveType”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(113,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(115,11): error C3646: “uiVertexArray”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(115,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(116,15): error C3646: “uiNormalArray”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(116,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(117,11): error C3646: “uiColorArray”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(117,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(118,11): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(118,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(118,31): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(119,11): error C3646: “vertexArrayObject”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(119,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(121,16): error C3646: “nVertsBuilding”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(121,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(122,16): error C3646: “nNumVerts”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(122,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(123,16): error C3646: “nNumTextureUnits”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(123,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(89,84): error C2065: “vVerts”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(90,82): error C2065: “vNorms”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(91,83): error C2065: “vColors”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(92,109): error C2065: “vTex”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLBatch.h(92,116): error C2065: “uiTextureLayer”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(85,9): error C3646: “uiShaderID”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(85,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(99,10): error C3646: “GetStockShader”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(99,24): error C2059: 语法错误:“(”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(99,52): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(102,9): error C3646: “UseStockShader”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(102,23): error C2059: 语法错误:“(”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(102,56): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(107,10): error C3646: “LoadShaderPair”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(107,24): error C2059: 语法错误:“(”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(107,90): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(110,10): error C3646: “LoadShaderPairSrc”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(110,27): error C2059: 语法错误:“(”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(110,95): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(113,10): error C3646: “LoadShaderPairWithAttributes”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(113,38): error C2059: 语法错误:“(”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(113,113): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(114,10): error C3646: “LoadShaderPairSrcWithAttributes”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(114,41): error C2059: 语法错误:“(”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(114,120): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(117,10): error C3646: “LookupShader”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(117,22): error C2059: 语法错误:“(”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(117,76): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(120,10): error C3646: “uiStockShaders”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(120,24): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLShaderManager.h(120,41): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(96,24): error C2061: 语法错误: 标识符“GLuint”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(101,23): error C3646: “GetIndexCount”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(101,37): error C2062: 意外的类型“void” 
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(101,43): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(102,23): error C3646: “GetVertexCount”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(102,38): error C2062: 意外的类型“void” 
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(102,44): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(109,19): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(109,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(109,28): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(114,16): error C3646: “nMaxIndexes”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(114,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(115,16): error C3646: “nNumIndexes”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(115,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(116,16): error C3646: “nNumVerts”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(116,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(118,16): error C3646: “bufferObjects”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(118,29): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(118,32): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(119,10): error C3646: “vertexArrayBufferObject”: 未知重写说明符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTriangleBatch.h(119,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(144,6): error C2182: “gltGetOpenGLVersion”: “void” 这一使用无效
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(144,26): error C2065: “GLint”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(144,33): error C2065: “nMajor”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(144,41): error C2065: “GLint”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(144,48): error C2065: “nMinor”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(153,7): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(153,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(153,74): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(157,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(157,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(157,1): error C2086: “int GLbyte”: 重定义
+  (编译源文件“Block.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(153,1):
+  参见“GLbyte”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(157,48): error C2061: 语法错误: 标识符“GLint”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(157,137): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(162,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(162,7): error C2146: 语法错误: 缺少“;”(在标识符“gltGrabScreenTGA”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(167,48): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(168,50): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(169,46): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(170,54): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(171,38): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(174,48): error C2061: 语法错误: 标识符“GLuint”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(175,44): error C2061: 语法错误: 标识符“GLuint”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(177,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(177,8): error C2146: 语法错误: 缺少“;”(在标识符“gltLoadShaderPair”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(178,41): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(178,1): error C2086: “int GLuint”: 重定义
+  (编译源文件“Block.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(177,1):
+  参见“GLuint”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(178,10): error C2146: 语法错误: 缺少“;”(在标识符“gltLoadShaderPairWithAttributes”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(179,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(179,1): error C2086: “int GLuint”: 重定义
+  (编译源文件“Block.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(177,1):
+  参见“GLuint”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(179,8): error C2146: 语法错误: 缺少“;”(在标识符“gltLoadShaderTripletWithAttributes”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(183,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(183,1): error C2086: “int GLuint”: 重定义
+  (编译源文件“Block.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(177,1):
+  参见“GLuint”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(183,8): error C2146: 语法错误: 缺少“;”(在标识符“gltLoadShaderPairSrc”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(184,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(184,1): error C2086: “int GLuint”: 重定义
+  (编译源文件“Block.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(177,1):
+  参见“GLuint”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(184,8): error C2146: 语法错误: 缺少“;”(在标识符“gltLoadShaderPairSrcWithAttributes”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(186,28): error C2146: 语法错误: 缺少“)”(在标识符“progName”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(187,6): error C2182: “gltGenerateOrtho2DMat”: “void” 这一使用无效
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLTools.h(187,35): error C2146: 语法错误: 缺少“)”(在标识符“width”的前面)
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLMatrixStack.h(100,14): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLMatrixStack.h(108,18): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLMatrixStack.h(115,15): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLMatrixStack.h(140,16): error C2061: 语法错误: 标识符“GLfloat”
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLMatrixStack.h(102,29): error C2065: “x”: 未声明的标识符
+  (编译源文件“Block.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\GLMatrixStack.h(102,29): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“Block.cpp”)
+  
