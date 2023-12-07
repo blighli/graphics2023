@@ -1,0 +1,131 @@
+﻿  MyOpenGLWidget.cpp
+  main.cpp
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x14d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x150 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x151 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x152 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x183 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x184 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x185 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x187 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x188 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x191 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x192 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x194 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x195 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x198 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x199 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x202 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x203 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x206 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x208 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x20d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x20e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x20f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x212 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x213 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x214 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x219 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x21b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x21c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x241 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x242 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x248 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x249 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x27b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x27d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x27e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x280 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x281 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x283 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x288 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x289 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x28a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x28b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x357 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x359 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x35a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x360 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x361 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x43b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x43c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x43e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x440 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x441 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x4d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MyOpenGLWidget.cpp)
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MyOpenGLWidget.cpp)
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MyOpenGLWidget.cpp)
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MyOpenGLWidget.cpp)
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+  moc_MyOpenGLWidget.cpp
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\MyOpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  homework01.vcxproj -> D:\Workspace\University\Master\三维动画与交互技术\graphics2023\22351266张涛\homework01\x64\Debug\homework01.exe
