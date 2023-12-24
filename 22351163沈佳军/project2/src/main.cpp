@@ -14,6 +14,8 @@ void init();
 
 void gen_sphere(std::vector<Vertex> &vertices, std::vector<unsigned int> &indices, glm::vec3 origin, float radius);
 
+glm::vec3 sphere_circle(glm::vec3 normal, glm::vec3 origin, float radius, float theta);
+
 void framebuffer_size_callback(GLFWwindow *wd, int width, int height);
 
 void process_input(GLFWwindow *wd);
@@ -42,18 +44,19 @@ int main() {
   std::vector<unsigned int> earth_indices, sun_indices, moon_indices;
   std::vector<Texture> earth_textures, sun_textures, moon_textures;
 
-  // generate obj sphere(earth)
-  glm::vec3 earth_origin{0.0f, 0.0f, -3.0f};
+  // generate earth sphere
+  glm::vec3 earth_origin{0.0f, 0.0f, -5.0f};
   gen_sphere(earth_vertices, earth_indices, earth_origin, 1.0f);
 
-  // generate light sphere(sun)
+  // generate sun sphere
   glm::vec3 sun_origin{0.0f, 0.0f, -15.0f};
   gen_sphere(sun_vertices, sun_indices, sun_origin, 3.0f);
 
-  glm::vec3 moon_origin{2.0f, 0.0f, -5.0f};
+  // generate moon sphere
+  glm::vec3 moon_origin{0.0f, 0.0f, -3.0f};
   gen_sphere(moon_vertices, moon_indices, moon_origin, 0.2f);
 
-  // load textures of obj and light
+  // load textures of earth, sun and moon
   unsigned int earth_texture_id, sun_texture_id, moon_texture_id;
   earth_texture_id = TextureFromFile("earth.png", "textures");
   sun_texture_id = TextureFromFile("sun.png", "textures");
@@ -62,7 +65,7 @@ int main() {
   sun_textures.push_back({sun_texture_id, "texture_diffuse", "textures/sun.png"});
   moon_textures.push_back({moon_texture_id, "texture_diffuse", "textures/moon.png"});
 
-  // generate obj mesh and light mesh
+  // generate mesh of earth, sun and moon
   Mesh earth_mesh(earth_vertices, earth_indices, earth_textures);
   Mesh sun_mesh(sun_vertices, sun_indices, sun_textures);
   Mesh moon_mesh(moon_vertices, moon_indices, moon_textures);
@@ -100,8 +103,12 @@ int main() {
     obj_shader.SetFloat("pointLight.quadratic", 0.0007f);
     // set view position
     obj_shader.SetVec3("viewPos", camera.GetPosition());
-    // set obj mvp
+    // earth revolution
     glm::mat4 model(1.0f);
+    float theta = last_frame * 100.0f;
+    glm::vec3 earth_rot = sphere_circle({0, 1, 0}, sun_origin, glm::distance(sun_origin, earth_origin),
+                                        glm::radians(theta));
+    model = glm::translate(model, earth_rot - earth_origin);
     obj_shader.SetMat4("model", model);
     glm::mat3 normal_matrix = glm::transpose(glm::inverse(model));
     obj_shader.SetMat3("normalMatrix", normal_matrix);
@@ -110,14 +117,27 @@ int main() {
     glm::mat4 projection = glm::perspective(glm::radians(camera.GetZoom()), kScreenWidth * 1.0f / kScreenHeight,
                                             0.1f, 100.0f);
     obj_shader.SetMat4("projection", projection);
-    // draw obj mesh
+    // draw earth
     earth_mesh.Draw(obj_shader);
+
+    // moon revolution
+    theta = last_frame * 150.0f;
+    model = glm::mat4(1.0f);
+    glm::vec3 moon_rot = sphere_circle({-1, 1, 1}, earth_rot, glm::distance(earth_origin, moon_origin),
+                                       glm::radians(theta));
+    model = glm::translate(model, moon_rot - moon_origin);
+    obj_shader.SetMat4("model", model);
+    normal_matrix = glm::transpose(glm::inverse(model));
+    obj_shader.SetMat3("normalMatrix", normal_matrix);
+    // draw moon
     moon_mesh.Draw(obj_shader);
 
-    // use light shader to draw light
+    // use light shader to draw sun
     light_shader.Use();
-    light_shader.SetMat4("model", model);
-    light_shader.SetMat3("normalMatrix", normal_matrix);
+    glm::mat4 light_model(1.0f);
+    light_shader.SetMat4("model", light_model);
+    glm::mat3 light_normal_matrix = glm::transpose(glm::inverse(light_model));
+    light_shader.SetMat3("normalMatrix", light_normal_matrix);
     light_shader.SetMat4("view", view);
     light_shader.SetMat4("projection", projection);
     // draw light mesh
@@ -128,7 +148,7 @@ int main() {
   }
 
   // save last window snapshot
-  GeneralAlgorithm::Snapshot("snapshot.png", R"(../assets)", kScreenWidth, kScreenHeight, true);
+//  GeneralAlgorithm::Snapshot("snapshot.png", R"(../assets)", kScreenWidth, kScreenHeight, true);
 
   glDeleteProgram(obj_shader.GetProgramId());
   glDeleteProgram(light_shader.GetProgramId());
@@ -178,6 +198,7 @@ void init() {
 }
 
 void gen_sphere(std::vector<Vertex> &vertices, std::vector<unsigned int> &indices, glm::vec3 origin, float radius) {
+  // generate sphere mesh based on origin and radius, return vertices and indices of sphere mesh
   vertices.clear();
   indices.clear();
   // alpha segments and theta segments
@@ -212,6 +233,15 @@ void gen_sphere(std::vector<Vertex> &vertices, std::vector<unsigned int> &indice
       }
     }
   }
+}
+
+glm::vec3 sphere_circle(glm::vec3 normal, glm::vec3 origin, float radius, float theta) {
+  // center circle of sphere, tan(alpha) = -(normal_x * sin(theta) + normal_z * cos(theta)) / normal_y
+  float alpha = atan(-(normal.x * sin(theta) + normal.z * cos(theta)) / normal.y);
+  float x = origin.x + radius * cos(alpha) * sin(theta);
+  float y = origin.y + radius * sin(alpha);
+  float z = origin.z + radius * cos(alpha) * cos(theta);
+  return {x, y, z};
 }
 
 void framebuffer_size_callback(GLFWwindow *wd, int width, int height) {
