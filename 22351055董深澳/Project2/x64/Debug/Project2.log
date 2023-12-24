@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+D:\研究生课程\三维动画\Project\22351055董深澳\Project2\main.cpp(389,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> D:\研究生课程\三维动画\Project\22351055董深澳\Project2\x64\Debug\Project2.exe
