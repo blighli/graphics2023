@@ -1,0 +1,523 @@
+﻿  MainWidget.cpp
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x111 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x113 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x114 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x116 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x258 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x25a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x25d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x25e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x260 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x3de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x5cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x7a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x7a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x7a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x977 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x978 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xb40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xd37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0xd39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x103c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x103d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x103e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1040 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1041 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x10e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x10e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x10e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x10e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1132 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1133 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x118b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x11e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x11ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x11ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x11ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x11ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x11f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1320 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1322 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1324 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1326 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1327 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1528 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x152a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x152c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1532 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1533 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1555 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1556 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1558 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x155a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x155b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x155c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x15e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1632 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1635 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1636 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1637 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1638 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1686 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1687 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1689 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x168a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x168b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x168c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x168e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1694 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1697 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x16f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x17e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x181b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x181d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x181f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1821 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1824 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1825 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1826 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1842 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1844 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1846 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1848 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x184b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x186e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1870 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1872 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1874 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1875 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1897 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1899 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x189b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x189d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x18dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x191c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1920 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1921 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1922 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1923 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1924 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1958 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x195a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x195c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x195d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x19c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1c7d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1c81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1c83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1c84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e13 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e15 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e22 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e64 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e66 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e95 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1e9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ea2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1edc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ee2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ee3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1ee5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f13 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f14 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f35 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.cpp(1,1): warning C4828: 文件包含在偏移 0x1f99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x197 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x199 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x19b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x19e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x19f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x1f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x22f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x232 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x234 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x236 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x273 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x274 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x277 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x279 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x2c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x2c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x2c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x2c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x2cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x308 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x30a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x30b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x30c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x30e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x314 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x316 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x318 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x31a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x31e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x31f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\MainWidget.h(1,1): warning C4828: 文件包含在偏移 0x323 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0xe7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x108 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x128 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x12a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x12c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x14e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x152 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x182 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x184 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x185 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x1f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x216 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x217 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x218 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x21a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x21b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x21c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x220 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x221 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x244 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x249 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x26a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x26e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x270 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x271 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x291 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x292 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x295 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x298 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x2b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x2ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+D:\Workspace\University\Master\homework02\star.h(1,1): warning C4828: 文件包含在偏移 0x2bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWidget.cpp”)
+  
+  homework02.vcxproj -> D:\Workspace\University\Master\homework02\x64\Debug\homework02.exe
