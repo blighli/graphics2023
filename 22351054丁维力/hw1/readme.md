@@ -1,0 +1,1 @@
+编译`g++ -o main main.cpp glad/src/glad.c -lglfw3 -lX11`

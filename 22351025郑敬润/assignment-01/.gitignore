@@ -1,0 +1,7 @@
+# VScode IDE
+*/.vscode/
+# MacOS
+.DS_Store
+# make && cmake
+build/
+

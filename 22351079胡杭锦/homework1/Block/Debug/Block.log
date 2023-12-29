@@ -1,0 +1,9 @@
+﻿  Block.cpp
+    正在创建库 D:\carly\code\c\3D\Block\Debug\Block.lib 和对象 D:\carly\code\c\3D\Block\Debug\Block.exp
+gltools.lib(GLBatch.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLBatch.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLShaderManager.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLShaderManager.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTools.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLTools.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTriangleBatch.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(GLTriangleBatch.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(math3d.obj) : warning LNK4099: 未找到 PDB“”(使用“gltools.lib(math3d.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  Block.vcxproj -> D:\carly\code\c\3D\Block\Debug\Block.exe

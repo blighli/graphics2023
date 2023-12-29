@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\CG\graphics2023\22351251余越\GraphicsProject\Project1\main.cpp(117,28): warning C4101: “EBO”: 未引用的局部变量
+  Project1.vcxproj -> E:\CG\graphics2023\22351251余越\GraphicsProject\x64\Debug\Project1.exe
