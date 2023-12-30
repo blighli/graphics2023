@@ -1,0 +1,2 @@
+D:\LearnOpenGL\model\x64\Debug\model.exe
+D:\研究生课程\三维动画\Project\22351055董深澳\Project3\x64\Debug\model.exe
