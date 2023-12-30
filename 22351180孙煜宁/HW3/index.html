@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebGL 3d Model</title>
+    <style>
+        body { margin: 0; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>按住鼠标左键拖动：平移模型</li>
+        <li>滚动鼠标滚轮：缩放模型</li>
+        <li>按住鼠标滚轮拖动：旋转模型</li>
+        <li>按下键盘W,A,S,D,←,→：场景漫游</li>
+    </ul>
+    <p>上传mtl文件，不上传则模型将没有色彩</p>
+    <input type="file" id="mtlInput" accept=".mtl">
+    <p>上传obj文件</p>
+    <input type="file" id="modelInput" accept=".obj">
+    <canvas id="webgl-canvas"></canvas>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.137.0/build/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.137.0/examples/js/loaders/OBJLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.137.0/examples/js/loaders/MTLLoader.js"></script>
+    <script src="webgl-3d-model.js"></script>
+</body>
+</html>
