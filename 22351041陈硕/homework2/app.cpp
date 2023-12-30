@@ -18,7 +18,7 @@
 
 Camera camera;
 Sphere earth;
-Sphere moon;
+Sphere moon(20, 20, glm::vec3(1.5, 1.5, 0.0), 0.25);
 Sphere sun(20, 20, glm::vec3(0.0, 0.0, 15.0), 1.5);
 void mouse_callback(GLFWwindow* window, double xpos, double ypos);
 void scroll_callback(GLFWwindow* window, double xoffset, double yoffset);
@@ -286,8 +286,7 @@ void App::run()
 
         glBindVertexArray(moonVAO);
         glm::mat4 model2 = glm::mat4(1.0f);
-        model2 = glm::translate(model2, modelPositions[1]);
-        model2 = glm::scale(model2, glm::vec3(0.25f));
+        model2 = glm::translate(model2, modelPositions[0]);
         shader.setMat4("model", model2);
         glDrawArrays(GL_TRIANGLES, 0, mIndices);
 
@@ -321,6 +320,7 @@ void App::run()
     glDeleteVertexArrays(1, &earthVAO);
     glDeleteVertexArrays(1, &moonVAO);
     glDeleteVertexArrays(1, &sunVAO);
+    glDeleteVertexArrays(1, &mouseVAO);
     glDeleteBuffers(1, &VBO);
     glDeleteBuffers(1, &VBOm);
     glDeleteBuffers(1, &VBO1);
@@ -376,7 +376,7 @@ void mouse_presscallback(GLFWwindow* window, int button, int action, int mods)
         {
             std::cout << "µØÇò" << std::endl;
         }
-        if (moondir && moondist < 1.0 && moondist == mindist)
+        if (moondir && moondist < 0.25 && moondist == mindist)
         {
             std::cout << "ÔÂÁÁ" << std::endl;
         }
@@ -427,7 +427,7 @@ uint32_t loadTexture(char const* path)
 
 float getdist(Sphere& sphere)
 {
-    glm::vec3 line = sphere.core - camera.Position;
+    glm::vec3 line = sphere.core  - camera.Position;
     glm::vec3 crossres = glm::cross(line, camera.Front);
     float crossmod = sqrt(pow(crossres.x, 2) + pow(crossres.y, 2) + pow(crossres.z, 2));
     float mod = sqrt(pow(camera.Front.x, 2) + pow(camera.Front.y, 2) + pow(camera.Front.z, 2));
