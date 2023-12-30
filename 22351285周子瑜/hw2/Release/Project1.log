@@ -1,0 +1,40 @@
+﻿  camera.cpp
+D:\vs_project\SolarSystem-master\camera.cpp(117,61): warning C4305: “参数”: 从“double”到“float”截断
+  main.cpp
+D:\vs_project\SolarSystem-master\main.cpp(63,43): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\vs_project\SolarSystem-master\main.cpp(72,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs_project\SolarSystem-master\main.cpp(87,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\vs_project\SolarSystem-master\main.cpp(96,48): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\vs_project\SolarSystem-master\main.cpp(126,87): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(127,87): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(129,85): warning C4305: “参数”: 从“int”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(130,94): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(130,94): warning C4305: “参数”: 从“int”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(131,95): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(131,95): warning C4305: “参数”: 从“int”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(132,96): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(132,96): warning C4305: “参数”: 从“__int64”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(133,96): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(133,96): warning C4305: “参数”: 从“__int64”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(134,89): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(134,89): warning C4305: “参数”: 从“__int64”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(136,76): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(163,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs_project\SolarSystem-master\main.cpp(280,25): warning C4305: “/=”: 从“double”到“float”截断
+D:\vs_project\SolarSystem-master\main.cpp(283,25): warning C4305: “*=”: 从“double”到“float”截断
+  moon.cpp
+  planet.cpp
+D:\vs_project\SolarSystem-master\planet.cpp(45,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs_project\SolarSystem-master\planet.cpp(60,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs_project\SolarSystem-master\planet.cpp(142,20): warning C4018: “<”: 有符号/无符号不匹配
+  solarsystem.cpp
+D:\vs_project\SolarSystem-master\solarsystem.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs_project\SolarSystem-master\solarsystem.cpp(38,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs_project\SolarSystem-master\solarsystem.cpp(48,20): warning C4018: “<”: 有符号/无符号不匹配
+  tga.cpp
+D:\vs_project\SolarSystem-master\tga.cpp(44,18): warning C4101: “j”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 306 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> D:\vscode_project\3dAnimation\graphics2023\22351285周子瑜\hw2\Release\Project1.exe

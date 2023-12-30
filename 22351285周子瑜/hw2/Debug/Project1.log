@@ -1,0 +1,22 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 __imp__glClear@4，函数 "void __cdecl window_resized(struct GLFWwindow *,int,int)" (?window_resized@@YAXPAUGLFWwindow@@HH@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glClearColor@16，函数 "void __cdecl window_resized(struct GLFWwindow *,int,int)" (?window_resized@@YAXPAUGLFWwindow@@HH@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glGetIntegerv@8，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glGetString@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glewInit@0，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glewGetErrorString@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwInit，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，函数 "void __cdecl key_pressed(struct GLFWwindow *,int,int,int,int)" (?key_pressed@@YAXPAUGLFWwindow@@HHHH@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetErrorCallback，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwDestroyWindow，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetWindowSizeCallback，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetKeyCallback，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，函数 "void __cdecl window_resized(struct GLFWwindow *,int,int)" (?window_resized@@YAXPAUGLFWwindow@@HH@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSwapInterval，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp____glewGetStringi，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glewExperimental，函数 _main 中引用了该符号
+D:\vscode_project\3dAnimation\graphics2023\22351285周子瑜\hw2\Debug\Project1.exe : fatal error LNK1120: 21 个无法解析的外部命令
