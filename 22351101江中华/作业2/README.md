@@ -34,11 +34,15 @@ K：光源开关
 Esc：解锁鼠标/退出天体跟踪
 ```
 
+<div  align="center"> 
+<img src="./img/solarsystem.jpg/" />
+</div>
 
+点击右边按钮，可以跳转到对应天体并跟踪
 
-点击左边按钮，可以跳到对应天体并跟踪
-
-
+<div  align="center"> 
+<img src="./img/Mercury.jpg/" />
+</div>
 
 ### **天体分布**
 
