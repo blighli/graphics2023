@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
     glutInitWindowSize(WIN_W, WIN_H)
     glutInitWindowPosition(300, 200)
-    glutCreateWindow('OpenGL')
+    glutCreateWindow('hw2')
 
     glEnable(GL_DEPTH_TEST)
     glDepthFunc(GL_LEQUAL)
@@ -136,4 +136,4 @@ if __name__ == "__main__":
     glutMouseFunc(mouseclick)
     glutMotionFunc(mousemotion)
 
-    glutMainLoop()  # 进入glut主循环
+    glutMainLoop()
