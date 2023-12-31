@@ -60,6 +60,8 @@ namespace core::primative
 
 	struct Sphere
 	{
+		std::string name;
+		vec3 sheld_color;
 		enum struct Tex_Match_Method
 		{
 			text_2d_default

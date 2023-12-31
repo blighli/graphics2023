@@ -7,6 +7,7 @@ layout (location = 3) in vec3 in_normal;
 out vec4 out_color;
 out vec2 uv;
 out vec3 normal;
+out vec3 frag_pos;
 
 uniform mat4 model;
 uniform mat4 view;
@@ -18,6 +19,7 @@ void main()
     out_color = color;
     uv = in_uv;
     normal = in_normal;
+    frag_pos = pos;
     //out_color = vec4(1.0, 0.0, 0.0, 1.0);
     //out_color = color;
 }

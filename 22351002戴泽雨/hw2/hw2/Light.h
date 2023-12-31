@@ -1,19 +1,25 @@
 #pragma once
-#include "Vector.h"
-namespace core::ilght
+#include <glm/glm.hpp>
+namespace core::light
 {
-	using namespace core::math;
+	using glm::vec2;
+	using glm::vec3;
+	using glm::vec4;
 	struct Point_Light
 	{
-		Vector3 direction;
-		Vector3 color;
-		Vector3 position;
+		//Vector3 direction;
+		vec3 color;
+		vec3 position;
+		Point_Light(const vec3& in_color, const vec3& in_position):
+			color{in_color},
+			position{in_position}
+		{}
 		float intensity;
 	};
 	struct Direct_Light
 	{
-		Vector3 direction;
-		Vector3 color;
+		vec3 direction;
+		vec3 color;
 		float intensity;
 	};
 }

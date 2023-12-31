@@ -111,9 +111,9 @@ namespace core::primative
 				auto temp_z = std::sinf(now_angle_y);
 				now_position.y = std::cosf(now_angle_y);
 
-				// x direction start from -x
-				now_position.z = std::sinf(now_angle_x) * temp_z;
-				now_position.x = - std::cosf(now_angle_x) * temp_z;
+				// x direction start from -z
+				now_position.z = - std::cosf(now_angle_x) * temp_z;
+				now_position.x = - std::sinf(now_angle_x) * temp_z;
 
 				auto now_vertex = Vertex{};
 				now_vertex.position = now_position * radius + origin;
