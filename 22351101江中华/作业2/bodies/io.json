@@ -1,0 +1,20 @@
+{
+  "name": "Io",
+  "parent": "jupiter",
+  "texture": "io.jpg",
+  "basecolor": {
+    "r": 198,
+    "g": 192,
+    "b": 142
+  },
+  "radius": 1.2215,
+  "orbit": {
+    "type": "circular",
+    "radius": 20.872,
+    "orbital_period": 1.769,
+    "inclination": 0.107163216
+  },
+  "axial_tilt": 0,
+  "sidereal_rotation_period": 1.769,
+  "mass": 8.94e+25
+}

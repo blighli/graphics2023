@@ -1,0 +1,13 @@
+{
+  "name": "Sun",
+  "texture": "sun.jpg",
+  "basecolor": {
+    "r": 250,
+    "g": 150,
+    "b": 26
+  },
+  "radius": 12,
+  "axial_tilt": 0.126536371,
+  "sidereal_rotation_period": 25.83,
+  "mass": 1.9884e+30
+}

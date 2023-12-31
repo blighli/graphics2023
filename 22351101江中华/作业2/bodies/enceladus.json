@@ -1,0 +1,20 @@
+{
+  "name": "Enceladus",
+  "parent": "saturn",
+  "texture": "enceladus.jpg",
+  "basecolor": {
+    "r": 204,
+    "g": 204,
+    "b": 204
+  },
+  "radius": 0.504,
+  "orbit": {
+    "type": "circular",
+    "radius": 23.51792,
+    "orbital_period": 1.370218,
+    "inclination": 0.466858122
+  },
+  "axial_tilt": 0,
+  "sidereal_rotation_period": 1.370218,
+  "mass": 1.08022e+23
+}

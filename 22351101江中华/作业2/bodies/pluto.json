@@ -1,0 +1,24 @@
+{
+  "name": "Pluto",
+  "parent": "sun",
+  "texture": "pluto.jpg",
+  "basecolor": {
+    "r": 174,
+    "g": 131,
+    "b": 97
+  },
+  "radius": 3.561,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 7.37593e+14,
+    "periapsis": 4.43682e+14,
+    "longtitude_ascending_node": 1.925080712,
+    "argument_of_periapsis": 1.986778101,
+    "inclination": 0.29915816,
+    "initial_mean_anomaly": 0.25359634,
+    "multiplier": 0.0000000000025
+  },
+  "axial_tilt": 2.08725671,
+  "sidereal_rotation_period": 6.387230,
+  "mass": 1.303e+25
+}

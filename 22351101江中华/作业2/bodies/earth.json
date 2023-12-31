@@ -1,0 +1,24 @@
+{
+  "name": "Earth",
+  "parent": "sun",
+  "texture": "earth.jpg",
+  "basecolor": {
+    "r": 29,
+    "g": 60,
+    "b": 109
+  },
+  "radius": 6.371,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 152100000000,
+    "periapsis": 147095000000,
+    "longtitude_ascending_node": -0.196535244,
+    "argument_of_periapsis": 1.993302665,
+    "inclination": 0.000000873,
+    "initial_mean_anomaly": 6.259047404,
+    "multiplier": 0.0000000005
+  },
+  "axial_tilt": 0.409092629,
+  "sidereal_rotation_period": 0.99726968,
+  "mass": 5.97237e+24
+}
