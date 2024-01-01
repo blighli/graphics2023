@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b10f471e2fe1ee0459c5070c496deab2, type: 3}
+  m_Name: Devil Attack
+  m_EditorClassIdentifier: 
+  baseMinDamage: 0
+  baseMaxDamage: 0
+  baseSkillPower: 0
+  baseCriticalChance: 0
+  baseCriticalMagicChance: 0
+  attackRange: 2
+  skillRange: 0
+  coolDown: 1
+  minDamage: 10
+  maxDamage: 11
+  criticalMultiplier: 1.5
+  criticalChance: 0.4
+  SkillPower: 0
+  criticalMagicChance: 0

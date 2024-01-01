@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cc1e794aa7bd5b4d84dd2048cefc684, type: 3}
+  m_Name: Player Data
+  m_EditorClassIdentifier: 
+  maxHealth: 150
+  currentHealth: 150
+  baseHealthRecover: 1
+  currentHealthRecover: 1
+  maxMana: 100
+  currentMana: 60
+  baseManaRecover: 4
+  currentManaRecover: 4
+  baseDefence: 30
+  currentDefence: 30
+  baseMagicDefence: 30
+  currentMagicDefence: 30
+  ifDizzy: 1
+  killPoint: 0
+  currentLevel: 1
+  maxLevel: 30
+  baseExp: 50
+  currentExp: 0
+  levelBuff: 0.2
+  ItemEquipped:
+  - item: {fileID: 0}
+    itemHeld: 0
+  - item: {fileID: 0}
+    itemHeld: 0
+  ifLvUp: 0

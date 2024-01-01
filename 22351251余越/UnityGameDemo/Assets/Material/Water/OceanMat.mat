@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OceanMat
+  m_Shader: {fileID: -6465566751694194690, guid: fd8f7eb7fd8258c4d8ac8c48d80c977b, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_aa832a66a38d4196886ab7593a0a01bc:
+        m_Texture: {fileID: 2800000, guid: 742754903b247244fb6ad49e73194046, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_3d3c608bebe74d5788bc78512ce5c5f8: 50
+    - Vector1_3f2117b0300244cca65c45a23d47a9d6: 1
+    - Vector1_cf464d448dc0456ea2597824f9dad0ca: 8
+    - Vector1_e66e787c024d4ca3a7e375a00c936e4c: 1.7
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors:
+    - Color_555aa92ef3214bfe9f674b1ef51ad4f3: {r: 1, g: 1, b: 1, a: 0}
+    - Color_99cb65b7f1aa4e4185bbd34426a4229a: {r: 0, g: 0.5188679, b: 0.50976497, a: 0}
+    - Color_9f42364fda6b46df842fe896fc82c438: {r: 0, g: 0.2747318, b: 0.4433962, a: 0}
+    - Vector2_576bd239960f4bee9d4ed0f75dfb9941: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - Vector2_f0e3b270daef4f5481092f2ddb730c6e: {r: -0.01, g: -0.005, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &3078867363810373352
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

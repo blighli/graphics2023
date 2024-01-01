@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 797c00df463d206419b2755f28393e77, type: 3}
+  m_Name: Boss StoneShock Data
+  m_EditorClassIdentifier: 
+  mana: 0
+  skillRange: 0
+  baseDamage: 40
+  HPFactor: 0
+  atkFactor: 0
+  SPFactor: 0
+  skillDamageType: 1
+  CD: 0
+  skillInfo: 
+  atkPlus: 0
+  SPPlus: 0
+  atkPlusPercent: 0
+  SPPlusPercent: 0
+  HPRecoverPlus: 0
+  MPRecoverPlus: 0
+  defencePlus: 0
+  magicDefencePlus: 0
+  contiTime: 0
