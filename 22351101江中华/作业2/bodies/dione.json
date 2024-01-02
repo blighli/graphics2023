@@ -1,0 +1,20 @@
+{
+  "name": "Dione",
+  "parent": "saturn",
+  "texture": "dione.jpg",
+  "basecolor": {
+    "r": 147,
+    "g": 147,
+    "b": 147
+  },
+  "radius": 0.8,
+  "orbit": {
+    "type": "circular",
+    "radius": 35.09584,
+    "orbital_period": 2.736915,
+    "inclination": 0.519217999
+  },
+  "axial_tilt": 0,
+  "sidereal_rotation_period": 2.736915,
+  "mass": 1.095452e+24
+}

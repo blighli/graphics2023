@@ -1,0 +1,16 @@
+W		Forwards
+S		Backwards
+A		Left
+D		Right
+Space	Up
+Ctrl		Down
+Shift	Fast-Travel
++		Increase speed
+-		Decrease speed
+F1		Help
+F11		Toggle fullscreen
+P		Pause/Unpause
+O		Toggle orbits
+T		Toggle textures and skybox
+ESC	Unlock mouse/Deselect body
+L Mouse	Select a body

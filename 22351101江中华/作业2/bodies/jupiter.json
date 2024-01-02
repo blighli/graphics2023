@@ -1,0 +1,24 @@
+{
+  "name": "Jupiter",
+  "parent": "sun",
+  "texture": "jupiter.jpg",
+  "basecolor": {
+    "r": 192,
+    "g": 161,
+    "b": 133
+  },
+  "radius": 13.3708,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 816040000000,
+    "periapsis": 740550000000,
+    "longtitude_ascending_node": 1.75342758,
+    "argument_of_periapsis": 4.779880863,
+    "inclination": 0.02274164,
+    "initial_mean_anomaly": 0.349414916,
+    "multiplier": 0.0000000003
+  },
+  "axial_tilt": 0.0546288056,
+  "sidereal_rotation_period": 0.4135,
+  "mass": 1.899e+30
+}

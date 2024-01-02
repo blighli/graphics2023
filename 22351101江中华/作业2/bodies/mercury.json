@@ -1,0 +1,24 @@
+{
+  "name": "Mercury",
+  "parent": "sun",
+  "texture": "mercury.jpg",
+  "basecolor": {
+    "r": 159,
+    "g": 141,
+    "b": 127
+  },
+  "radius": 4.879,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 69816900000,
+    "periapsis": 46001200000,
+    "longtitude_ascending_node": 0.843535081,
+    "argument_of_periapsis": 0.508309691,
+    "inclination": 0.122260314,
+    "initial_mean_anomaly": 3.050765719,
+    "multiplier": 0.0000000005
+  },
+  "axial_tilt": 0.000593411946,
+  "sidereal_rotation_period": 58.646,
+  "mass": 3.301e+26
+}

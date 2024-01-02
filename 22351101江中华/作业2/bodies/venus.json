@@ -1,0 +1,24 @@
+{
+  "name": "Venus",
+  "parent": "sun",
+  "texture": "venus.jpg",
+  "basecolor": {
+    "r": 146,
+    "g": 71,
+    "b": 14
+  },
+  "radius": 6.051,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 108939000000,
+    "periapsis": 107477000000,
+    "longtitude_ascending_node": 1.33831847,
+    "argument_of_periapsis": 0.957906507,
+    "inclination": 0.059246598,
+    "initial_mean_anomaly": 0.874671755,
+    "multiplier": 0.0000000005
+  },
+  "axial_tilt": 0.0460766923,
+  "sidereal_rotation_period": -243.025,
+  "mass":   4.869e+27
+}

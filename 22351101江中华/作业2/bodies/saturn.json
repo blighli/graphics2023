@@ -1,0 +1,31 @@
+{
+  "name": "Saturn",
+  "parent": "sun",
+  "texture": "saturn.jpg",
+  "basecolor": {
+    "r": 215,
+    "g": 191,
+    "b": 147
+  },
+  "radius": 11.6464,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 1.509e+12,
+    "periapsis": 1.35e+12,
+    "longtitude_ascending_node": 1.983828494,
+    "argument_of_periapsis": 5.923507855,
+    "inclination": 0.043375621,
+    "initial_mean_anomaly": 5.533042795,
+    "multiplier": 0.0000000003
+  },
+  "axial_tilt": 0.466526509,
+  "sidereal_rotation_period": 0.4395,
+  "mass": 5.685e+29,
+  "ring": {
+    "texture": "saturn_ring.png",
+    "radius": {
+      "inner": 12,
+      "outer": 28
+    }
+  }
+}

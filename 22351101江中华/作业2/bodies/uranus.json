@@ -1,0 +1,24 @@
+{
+  "name": "Uranus",
+  "parent": "sun",
+  "texture": "uranus.jpg",
+  "basecolor": {
+    "r": 160,
+    "g": 209,
+    "b": 216
+  },
+  "radius": 12.681,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 3.008e+12,
+    "periapsis": 2.742e+12,
+    "longtitude_ascending_node": 1.291648366,
+    "argument_of_periapsis": 1.692949425,
+    "inclination": 0.013491395,
+    "initial_mean_anomaly": 2.482531893,
+    "multiplier": 0.0000000002
+  },
+  "axial_tilt": 1.70640841,
+  "sidereal_rotation_period": 0.71833,
+  "mass": 8.683e+28
+}

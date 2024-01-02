@@ -1,0 +1,24 @@
+{
+  "name": "Mars",
+  "parent": "sun",
+  "texture": "mars.jpg",
+  "basecolor": {
+    "r": 114,
+    "g": 90,
+    "b": 66
+  },
+  "radius": 3.398,
+  "orbit": {
+    "type": "elliptic",
+    "apoapsis": 249200000000,
+    "periapsis": 206700000000,
+    "longtitude_ascending_node": 0.864950271,
+    "argument_of_periapsis": 5.000403214,
+    "inclination": 0.032288591,
+    "initial_mean_anomaly": 0.338122636,
+    "multiplier": 0.0000000005
+  },
+  "axial_tilt": 0.439648439,
+  "sidereal_rotation_period": 1.025957,
+  "mass": 6.419e+26
+}
