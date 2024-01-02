@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\shader.h(61,8): warning C4101: “infoLog”: 未引用的局部变量
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\shader.h(60,7): warning C4101: “success”: 未引用的局部变量
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\shader.h(149,8): warning C4101: “infoLog”: 未引用的局部变量
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\shader.h(148,7): warning C4101: “success”: 未引用的局部变量
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\mesh.h(89,45): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\mesh.h(93,50): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\vs source\repos\Assignment2\include\GLFW\glfw3.h(123,1): message : 参见“APIENTRY”的前一个定义
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(51,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(100,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(104,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(124,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(128,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(173,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(278,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(279,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(280,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(281,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(285,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(286,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(287,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(288,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(303,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(304,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(305,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(306,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(320,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(321,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\Project2-3\main.cpp(353,31): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  LINK : 没有找到 C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\x64\Debug\Project2-3.exe 或上一个增量链接没有生成它；正在执行完全链接
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Project2-3.vcxproj -> C:\Users\54201\Desktop\三维动画\homework\graphics2023\22351005郭姿成\Project2-3\x64\Debug\Project2-3.exe
