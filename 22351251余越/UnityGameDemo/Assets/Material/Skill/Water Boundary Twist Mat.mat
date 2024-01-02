@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water Boundary Twist Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 57ff18fa0bafeda4b8b277f3b0fcf46a, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_16823c24bf4a42a8a44760421903a4cf: 0.25
+    - Vector1_221de4b5d87a4eb59946b210e44f086b: 1
+    - Vector1_29d8798c2b4b4d3198e054d00c74447c: 1.53
+    - Vector1_6b309e0cc26b4900a4541f4886585319: 0.2
+    - Vector1_d5f2e53db58040ceb16f447300b1d9dd: 10
+    - Vector1_dd13faf9d3c0497796356a9e44e14061: 10
+    - Vector1_f462169884fa4661a81cfc81b68c6ff1: 2
+    - Vector1_fad60dbb5a624e6094e05d63e92344d7: 0.5
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors:
+    - Color_34ff57ffa7b549d783f0c480235ad034: {r: 0, g: 0.14117648, b: 0.26666668, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &6806361438460402358
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

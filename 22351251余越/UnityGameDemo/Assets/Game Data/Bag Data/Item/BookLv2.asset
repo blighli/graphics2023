@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627604b6c6499c541a97a7b4d8faaae2, type: 3}
+  m_Name: BookLv2
+  m_EditorClassIdentifier: 
+  itemName: BookLv2
+  itemImage: {fileID: 21300000, guid: c3892c62fc5588b4b8f8bdde291c0278, type: 3}
+  itemInfo: "\u4E66Lv2\n\u6CD5\u5F3A+25\n\u6CD5\u672F\u66B4\u51FB\u7387+5%"
+  itemGOPrefab: {fileID: 3084337970562375640, guid: b8a74285b951be54684379b5eb9e3f1d, type: 3}
+  itemType: 3
+  atkPlus: 0
+  spPlus: 25
+  criticalChancePlus: 0
+  criticalMagicChancePlus: 0.05

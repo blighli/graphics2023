@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4c6bfce34f3d41a4cab122eae1a1612e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buffPrefab: {fileID: 2878928584758143226, guid: c0ef262e3737cf24e97fe6a1ef910d7d, type: 3}
+  - fireDebuffData: {fileID: 11400000, guid: e234e8711f948584abdfb19a9071c8c3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
