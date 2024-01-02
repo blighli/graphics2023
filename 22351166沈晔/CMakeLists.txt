@@ -1,7 +1,0 @@
-cmake_minimum_required(VERSION 3.5)
-set(CMAKE_CXX_STANDARD 20)
-project(GLFW_test)
-find_package(glfw3 REQUIRED)
-file(GLOB project_file glad.c main.cpp)
-add_executable(${PROJECT_NAME} ${project_file})
-target_link_libraries(${PROJECT_NAME} -lglfw3 -lGL -lX11 -lpthread -I/usr/local/include/)
