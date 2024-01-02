@@ -1,0 +1,16 @@
+﻿glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(init.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(input.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_init.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_time.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_thread.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_thread.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(vulkan.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_joystick.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(wgl_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(egl_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(osmesa_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(osmesa_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  assignment2.vcxproj -> D:\gitPath\graphics2023-main\22351261张家辉\homework2\assignment2\x64\Debug\assignment2.exe
