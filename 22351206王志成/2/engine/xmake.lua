@@ -1,6 +1,0 @@
-target("Engine")
-    set_kind("static")
-    add_files("./*/*.cpp")
-    add_includedirs("./", "./asset", "./gui", "./platform", "./renderer", "./RHI", "./utils", {public = true})
-    add_deps("BuiltinResources")
-    add_packages("vulkansdk", "imgui", "tinyobjloader", "spdlog", "glm", "freeimage", "stb")
