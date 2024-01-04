@@ -1,0 +1,16 @@
+﻿  camera.cpp
+D:\carly\code\c\3D\Homework2\Homework2\camera.cpp(111,50): warning C4305: “参数”: 从“double”到“float”截断
+  main.cpp
+  moon.cpp
+  planet.cpp
+D:\carly\code\c\3D\Homework2\Homework2\planet.cpp(38,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\carly\code\c\3D\Homework2\Homework2\planet.cpp(53,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\carly\code\c\3D\Homework2\Homework2\planet.cpp(107,20): warning C4018: “<”: 有符号/无符号不匹配
+  solarsystem.cpp
+D:\carly\code\c\3D\Homework2\Homework2\solarsystem.cpp(11,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\carly\code\c\3D\Homework2\Homework2\solarsystem.cpp(32,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\carly\code\c\3D\Homework2\Homework2\solarsystem.cpp(42,20): warning C4018: “<”: 有符号/无符号不匹配
+  tga.cpp
+D:\carly\code\c\3D\Homework2\Homework2\tga.cpp(38,18): warning C4101: “j”: 未引用的局部变量
+  正在生成代码...
+  Homework2.vcxproj -> D:\carly\code\c\3D\Homework2\Debug\Homework2.exe
