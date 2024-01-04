@@ -125,10 +125,8 @@
   				cos_grad = clamp(cos_grad, 0., 1.);
   				col.rgb = toRGB(cos_grad);
 					
-				// 波にゆらぎを与える
 				half3 worldViewDir = normalize(_WorldSpaceCameraPos - i.worldPos);
 
-				//エイリアシング防止
 				float3 v = i.worldPos - _WorldSpaceCameraPos;
 				float anisotropy = saturate(1/(ddy(length ( v.xz )))/5);
 				float3 swelledNormal = swell(i.worldNormal , i.worldPos , anisotropy);
