@@ -1,5 +1,5 @@
 #include <iostream>
-#include"glad/glad.h"
+#include"glad/glad.h"//！！！注意这里，/前面的是h文件的上级目录，可能每个人安装不同，也有不同
 #include"GLFW/glfw3.h"
 using namespace std;
 
@@ -27,7 +27,7 @@ const GLchar* fragmentShader_Code =
 "out vec4 FragColor;\n"
 "void main()\n"
 "{\n"
-"FragColor=vec4(1.0f, 0.4f, 0.1f, 1.0f);\n"
+"FragColor=vec4(1.0f, 0.5f, 0.2f, 1.0f);\n"
 "}";
 
 int main()
