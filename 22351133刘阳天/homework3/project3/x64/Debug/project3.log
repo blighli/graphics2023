@@ -1,0 +1,4 @@
+﻿  maincpp.cpp
+D:\OpenGLTemplate\include\OpenMesh\Core\System\compiler.hh(104,1): error C1189: #error:  "You have to define _USE_MATH_DEFINES in the compiler settings!"
+  (编译源文件“maincpp.cpp”)
+  
