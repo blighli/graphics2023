@@ -1,55 +1,12 @@
 <h1 align="center">3D Racing Games Demo with OpenGL</h1>
 <p align="center">使用 C++ 和 OpenGL 实现简单的 3D 赛车游戏</p>
-
+<p align="center">22351218-期末大作业</p>
 <img src="https://i.loli.net/2020/01/01/PAJ5ZVzrMORbcjw.png" style="width: 100%">
 
 <br/>
 
 ## 简介 Introduction
 
-计算机图形学课程的大作业，参考 [LearnOpenGL 中文教程](https://learnopengl-cn.github.io/) 完成该 Demo。
-
-引用的 LearnOpenGL 库代码以及自己编写的代码均做有中文注释。
-
-<br/>
-
-## 使用方式 Usage
-
-可运行程序下载地址：
-
-1. 站内下载：[Github Releases](https://github.com/ceynri/3d-racing-games-demo/releases)
-  
-    没有科学上网的同学可能不仅下面的 gif 图加载不出来，这个链接估计也下载不动，可以使用下面的百度云链接
-
-2. 百度云：
-
-    > 链接：<https://pan.baidu.com/s/1DrRJSp5qA_zkWEbwiwS3IQ>
-    > 
-    > 提取码：nlv9
-
-选择 Release 或 Debug 版本其中一个下载解压后点击 `RacingGames.exe` 运行程序。
-
-[项目源码](https://github.com/ceynri/3d-racing-games-demo/releases) 需要在 Windows 平台下使用 VS 2015 编译运行（无兼容性优化）。
-
-如尝试自行编译，请选择 x86 选项（因为所使用的库为 x86 版本）
-
-<br/>
-
-## 效果演示 Demonstrate
-
-<div align="center">
-    <img src="https://i.loli.net/2020/01/01/5cMn91fltPwFr2s.gif" />
-</div>
-<div align="center">自由视角</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://i.loli.net/2020/01/01/dQEXnaoqsLBHckm.gif" />
-</div>
-<div align="center">驾驶跑车</div>
-
-<br/>
 
 ## 控制 Control
 
