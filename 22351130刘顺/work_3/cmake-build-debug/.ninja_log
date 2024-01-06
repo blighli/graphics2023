@@ -1,0 +1,25 @@
+# ninja log v5
+2	1215	6956302163159143	CMakeFiles/untitled2.dir/task2.cpp.obj	3291079fdbcb7834
+2	852	6932324171513469	CMakeFiles/untitled2.dir/main.cpp.obj	1fb5554df2d6cbcd
+0	140	6956747953722083	build.ninja	d6533f47d1188327
+3	1598	6956872180820911	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+1598	1888	6956872183700898	untitled2.exe	cc0f46d0ee5978fe
+2	296	6955833415332059	CMakeFiles/untitled2.dir/test.cpp.obj	fb83da92065e10f7
+1	699	6956747655599474	CMakeFiles/untitled2.dir/task1.cpp.obj	8f9d94158ac2badc
+11	598	6939404855417461	CMakeFiles/untitled2.dir/glad.c.obj	2c2b8a0744bad12f
+3	2024	6956873306351480	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+2024	2311	6956873309197598	untitled2.exe	cc0f46d0ee5978fe
+3	1577	6956885253277217	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+1578	1861	6956885256087221	untitled2.exe	cc0f46d0ee5978fe
+3	1604	6956889063741384	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+1604	1920	6956889066871425	untitled2.exe	cc0f46d0ee5978fe
+3	2059	6956889273953742	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+2059	2368	6956889277023208	untitled2.exe	cc0f46d0ee5978fe
+3	1593	6956889662835400	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+1594	1882	6956889665685303	untitled2.exe	cc0f46d0ee5978fe
+3	1577	6956890328056125	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+1577	1871	6956890330966126	untitled2.exe	cc0f46d0ee5978fe
+3	1645	6956890685742295	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+1646	1932	6956890688578302	untitled2.exe	cc0f46d0ee5978fe
+3	1763	6956892759599442	CMakeFiles/untitled2.dir/task3.cpp.obj	9a7319d6cebbb16e
+1763	2055	6956892762479431	untitled2.exe	cc0f46d0ee5978fe
