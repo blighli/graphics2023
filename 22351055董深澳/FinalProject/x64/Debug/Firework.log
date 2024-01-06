@@ -1,0 +1,40 @@
+﻿  ExportTools.cpp
+  FileLoader.cpp
+  main.cpp
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(131,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(193,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(208,86): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(213,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(214,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(302,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(304,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(361,29): warning C4305: “=”: 从“double”到“float”截断
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\main.cpp(363,34): warning C4305: “+=”: 从“double”到“float”截断
+  ParticleSystem.cpp
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(8,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(66,19): warning C4305: “*=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(67,19): warning C4305: “*=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(126,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(131,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(146,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(164,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(175,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(176,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\ParticleSystem.cpp(196,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  UserControl.cpp
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\UserControl.cpp(42,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\UserControl.cpp(43,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\UserControl.cpp(155,41): warning C4305: “+=”: 从“double”到“float”截断
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\UserControl.cpp(156,45): warning C4305: “-=”: 从“double”到“float”截断
+D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\Source\UserControl.cpp(158,36): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码...
+  glad.c
+  Firework.vcxproj -> D:\研究生课程\三维动画\Project\22351055董深澳\FinalProject\x64\Debug\Firework.exe
