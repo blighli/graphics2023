@@ -1,3 +1,1 @@
-﻿  main.cpp
-E:\sanweiWinter\graphics2023\22351286朱澳凯\hw1\hw1\main.cpp(34,12): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-  hw1.vcxproj -> E:\sanweiWinter\graphics2023\22351286朱澳凯\hw1\x64\Debug\hw1.exe
+﻿  hw1.vcxproj -> E:\sanweiWinter\graphics2023\22351286朱澳凯\hw1\x64\Debug\hw1.exe

@@ -1,0 +1,14 @@
+﻿  main.cpp
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(56,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(57,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(58,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(59,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(60,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(163,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(164,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\planet.h(165,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\main.cpp(81,31): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\main.cpp(247,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\main.cpp(248,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\hw2\main.cpp(266,80): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  hw2.vcxproj -> E:\sanweiWinter\graphics2023\22351286朱澳凯\hw2\x64\Debug\hw2.exe
