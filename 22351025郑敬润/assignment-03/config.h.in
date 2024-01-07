@@ -1,0 +1,2 @@
+// 传入项目路径，注意这里的双引号
+#define PROJECT_SOURCE_DIR "${PROJECT_SOURCE_DIR}"

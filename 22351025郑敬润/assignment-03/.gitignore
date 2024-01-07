@@ -1,0 +1,10 @@
+# VScode IDE
+.vscode/
+# JetBrains IDE
+.idea/
+# MacOS
+.DS_Store
+# make && cmake
+build/
+# model resource
+# res/objects/
