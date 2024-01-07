@@ -1,0 +1,12 @@
+# Blender 4.0.2 MTL File: '无标题.blend'
+# www.blender.org
+
+newmtl 材质.001
+Ns 835.208252
+Ka 0.697885 0.697885 0.697885
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd awesomeface.png
