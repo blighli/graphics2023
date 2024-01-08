@@ -1,0 +1,2 @@
+G:\Users\admin\source\repos\OPENGL\x64\Debug\OPENGL.exe
+D:\grad_student_lyy\OPENGL\x64\Debug\Assignment3.exe
