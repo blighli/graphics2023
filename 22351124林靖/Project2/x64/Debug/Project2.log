@@ -1,0 +1,1 @@
+﻿D:\Program Files (x86)\MS Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(497,5): error MSB8041: 此项目需要 MFC 库。从 Visual Studio 安装程序(单个组件选项卡)为正在使用的任何工具集和体系结构安装它们。
