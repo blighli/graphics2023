@@ -1,3 +1,0 @@
-D:/myproject/opengl_learning/dependencies/GLM/include/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
-D:/myproject/opengl_learning/dependencies/GLM/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/myproject/opengl_learning/dependencies/GLM/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
