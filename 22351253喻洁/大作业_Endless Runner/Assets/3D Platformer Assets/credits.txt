@@ -1,0 +1,11 @@
+3D Models used: 
+- https://quaternius.itch.io/platformer-pack
+- https://fertile-soil-productions.itch.io/modular-terrain-pack
+- https://kenney.nl/assets/platformer-kit
+- https://quaternius.itch.io/lowpoly-robot
+- https://quaternius.itch.io/lowpoly-animated-monsters
+
+Music from:
+- https://opengameart.org/content/free-music-pack
+- https://incompetech.com/music/
+

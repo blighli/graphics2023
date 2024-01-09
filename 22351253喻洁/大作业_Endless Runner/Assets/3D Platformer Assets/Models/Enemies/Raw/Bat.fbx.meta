@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: a255cc327bd3e6d43af694771060d460
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bat
+    100004: BatArmature
+    100006: Body
+    100008: BodyRoot
+    100010: Bone
+    100012: Bone_end
+    100014: EyeArmature
+    100016: Eyes
+    100018: Face
+    100020: Feet.L
+    100022: Feet.L_end
+    100024: Feet.R
+    100026: Feet.R_end
+    100028: Head
+    100030: LowerLeg.L
+    100032: LowerLeg.R
+    100034: Neck
+    100036: Nose
+    100038: Nose_end
+    100040: Root
+    100042: Shoulder.L
+    100044: Shoulder.R
+    100046: UpperLeg.L
+    100048: UpperLeg.R
+    100050: Wing1.L
+    100052: Wing1.R
+    100054: Wing2.L
+    100056: Wing2.R
+    100058: Wing3.L
+    100060: Wing3.R
+    100062: Wing4.L
+    100064: Wing4.L_end
+    100066: Wing4.R
+    100068: Wing4.R_end
+    400000: //RootNode
+    400002: Bat
+    400004: BatArmature
+    400006: Body
+    400008: BodyRoot
+    400010: Bone
+    400012: Bone_end
+    400014: EyeArmature
+    400016: Eyes
+    400018: Face
+    400020: Feet.L
+    400022: Feet.L_end
+    400024: Feet.R
+    400026: Feet.R_end
+    400028: Head
+    400030: LowerLeg.L
+    400032: LowerLeg.R
+    400034: Neck
+    400036: Nose
+    400038: Nose_end
+    400040: Root
+    400042: Shoulder.L
+    400044: Shoulder.R
+    400046: UpperLeg.L
+    400048: UpperLeg.R
+    400050: Wing1.L
+    400052: Wing1.R
+    400054: Wing2.L
+    400056: Wing2.R
+    400058: Wing3.L
+    400060: Wing3.R
+    400062: Wing4.L
+    400064: Wing4.L_end
+    400066: Wing4.R
+    400068: Wing4.R_end
+    2100000: Main
+    2100002: Belly
+    2100004: Black
+    2100006: Nose
+    2100008: Eyes
+    4300000: Bat
+    4300002: Eyes
+    7400000: BatArmature|Bat_Attack
+    7400002: BatArmature|Bat_Attack2
+    7400004: BatArmature|Bat_Death
+    7400006: BatArmature|Bat_Flying
+    7400008: BatArmature|Bat_Hit
+    9500000: //RootNode
+    13700000: Bat
+    13700002: Eyes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
