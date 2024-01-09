@@ -1,0 +1,46 @@
+﻿  glad.c
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\Libraries\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\mesh.h(88,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\texture.h(279,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\texture.h(317,30): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\texture.h(344,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\texture.h(346,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\texture.h(348,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(28,18): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(49,138): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(50,126): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(54,64): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(91,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(92,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(96,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(97,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(99,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(100,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(109,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(246,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(279,19): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(286,11): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(289,12): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(293,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(295,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\main.cpp(306,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  stb_image_wrap.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1046 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\tail\Downloads\OpenGL_FinalProject-master\OpenGL_FinalProject-master\code\x64\Release\Project1.exe
