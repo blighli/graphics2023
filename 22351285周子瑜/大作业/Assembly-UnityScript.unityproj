@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{EC2BFC93-10FD-6BB0-EDB8-1AD7323E93C4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-UnityScript</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_WEBPLAYER;ENABLE_SUBSTANCE;WEBPLUG;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;CROSS_PLATFORM_INPUT</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\TerrainComposer\Scripts\Drawing_tc.js" />
+     <Compile Include="Assets\TerrainComposer\Scripts\LatLong_Conversion.js" />
+     <Compile Include="Assets\TerrainComposer\Scripts\TerrainDetail.js" />
+     <Compile Include="Assets\TerrainComposer\Scripts\TerrainNeighbors.js" />
+     <Compile Include="Assets\TerrainComposer\Scripts\global_classes.js" />
+     <Compile Include="Assets\TerrainComposer\Scripts\global_settings_tc.js" />
+     <Compile Include="Assets\TerrainComposer\Scripts\jpg_encoder.js" />
+     <None Include="Assets\Resources\store1\6.txt" />
+     <None Include="Assets\TerrainComposer\Update\WorldComposer\check.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_5.txt" />
+     <None Include="Assets\Resources\debris_flow\6.txt" />
+     <None Include="Assets\Resources\debris_flow\14.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_13.txt" />
+     <None Include="Assets\Resources\debris_flow\25.txt" />
+     <None Include="Assets\Resources\debris_flow\18.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_18.txt" />
+     <None Include="Assets\Resources\flowClip\17.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_25.txt" />
+     <None Include="Assets\Resources\debris_flow\maxmomentum_20clip.txt" />
+     <None Include="Assets\Resources\debris_flow\54.txt" />
+     <None Include="Assets\Resources\store1\29.txt" />
+     <None Include="Assets\Resources\debris_flow\29.txt" />
+     <None Include="Assets\Resources\debris_flow\13.txt" />
+     <None Include="Assets\Resources\debris_flow\10.txt" />
+     <None Include="Assets\Resources\debris_flow\38.txt" />
+     <None Include="Assets\Resources\debris_flow\23.txt" />
+     <None Include="Assets\Resources\debris_flow\33.txt" />
+     <None Include="Assets\Resources\flowClip\15.txt" />
+     <None Include="Assets\Resources\debris_flow\42.txt" />
+     <None Include="Assets\Resources\debris_flow\4.txt" />
+     <None Include="Assets\TerrainComposer\WorldComposer Release Notes.txt" />
+     <None Include="Assets\Resources\debris_flow\36.txt" />
+     <None Include="Assets\Resources\debris_flow\1.txt" />
+     <None Include="Assets\Resources\flowClip\13.txt" />
+     <None Include="Assets\Resources\store1\7.txt" />
+     <None Include="Assets\Resources\store1\2.txt" />
+     <None Include="Assets\Resources\store1\4.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_21.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_1.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_20.txt" />
+     <None Include="Assets\Resources\debris_flow\40.txt" />
+     <None Include="Assets\Resources\debris_flow\51.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_9.txt" />
+     <None Include="Assets\Resources\store1\23.txt" />
+     <None Include="Assets\Resources\flowClip\3.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_29.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+     <None Include="Assets\Resources\store1\21.txt" />
+     <None Include="Assets\Resources\debris_flow\41.txt" />
+     <None Include="Assets\Resources\store1\12.txt" />
+     <None Include="Assets\Resources\flowClip\9.txt" />
+     <None Include="Assets\Resources\debris_flow\39.txt" />
+     <None Include="Assets\Resources\flowClip\2.txt" />
+     <None Include="Assets\Resources\store1\20.txt" />
+     <None Include="Assets\Resources\flowClip\20.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_6.txt" />
+     <None Include="Assets\Resources\debris_flow\30.txt" />
+     <None Include="Assets\Resources\store1\27.txt" />
+     <None Include="Assets\Resources\flowClip\18.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_15.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_11.txt" />
+     <None Include="Assets\Resources\debris_flow\52.txt" />
+     <None Include="Assets\Resources\flowClip\12.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_26.txt" />
+     <None Include="Assets\Resources\store1\26.txt" />
+     <None Include="Assets\Resources\debris_flow\19.txt" />
+     <None Include="Assets\Resources\flowClip\7.txt" />
+     <None Include="Assets\Resources\store1\3.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_27.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_4.txt" />
+     <None Include="Assets\Resources\debris_flow\32.txt" />
+     <None Include="Assets\Resources\debris_flow\28.txt" />
+     <None Include="Assets\Resources\store1\11.txt" />
+     <None Include="Assets\Resources\flowClip\1.txt" />
+     <None Include="Assets\Resources\debris_flow\46.txt" />
+     <None Include="Assets\Resources\store1\8.txt" />
+     <None Include="Assets\Resources\debris_flow\31.txt" />
+     <None Include="Assets\Resources\flowClip\8.txt" />
+     <None Include="Assets\Resources\debris_flow\16.txt" />
+     <None Include="Assets\Resources\store1\15.txt" />
+     <None Include="Assets\Resources\store1\28.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_16.txt" />
+     <None Include="Assets\Resources\flowClip\11.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_8.txt" />
+     <None Include="Assets\Resources\store1\14.txt" />
+     <None Include="Assets\Resources\debris_flow\59.txt" />
+     <None Include="Assets\Resources\debris_flow\55.txt" />
+     <None Include="Assets\Resources\debris_flow\43.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\Resources\debris_flow\15.txt" />
+     <None Include="Assets\Resources\store1\13.txt" />
+     <None Include="Assets\Resources\debris_flow\3.txt" />
+     <None Include="Assets\Resources\debris_flow\56.txt" />
+     <None Include="Assets\Resources\store1\1.txt" />
+     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_14.txt" />
+     <None Include="Assets\Resources\store1\19.txt" />
+     <None Include="Assets\Resources\store1\30.txt" />
+     <None Include="Assets\Resources\debris_flow\44.txt" />
+     <None Include="Assets\Resources\flowClip\19.txt" />
+     <None Include="Assets\TerrainComposer\Update\WorldComposer\version.txt" />
+     <None Include="Assets\Resources\debris_flow\47.txt" />
+     <None Include="Assets\Resources\store1\17.txt" />
+     <None Include="Assets\Resources\debris_flow\12.txt" />
+     <None Include="Assets\Resources\debris_flow\20.txt" />
+     <None Include="Assets\Resources\debris_flow\17.txt" />
+     <None Include="Assets\Resources\terrainClip\dem20_extract1.txt" />
+     <None Include="Assets\Resources\debris_flow\8.txt" />
+     <None Include="Assets\Resources\debris_flow\49.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_22.txt" />
+     <None Include="Assets\Resources\debris_flow\48.txt" />
+     <None Include="Assets\Resources\debris_flow\maxdepth_20clip.txt" />
+     <None Include="Assets\Resources\store1\5.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_23.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_12.txt" />
+     <None Include="Assets\Resources\flowClip\16.txt" />
+     <None Include="Assets\Resources\debris_flow\35.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+     <None Include="Assets\Resources\debris_flow\7.txt" />
+     <None Include="Assets\Resources\debris_flow\22.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_17.txt" />
+     <None Include="Assets\Resources\debris_flow\50.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_2.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_3.txt" />
+     <None Include="Assets\Resources\debris_flow\57.txt" />
+     <None Include="Assets\Resources\debris_flow\vec_20clip.txt" />
+     <None Include="Assets\Resources\debris_flow\5.txt" />
+     <None Include="Assets\Resources\store1\25.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_30.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_19.txt" />
+     <None Include="Assets\Resources\store1\16.txt" />
+     <None Include="Assets\Resources\store1\10.txt" />
+     <None Include="Assets\Resources\flowClip\14.txt" />
+     <None Include="Assets\Resources\flowClip\10.txt" />
+     <None Include="Assets\Resources\debris_flow\24.txt" />
+     <None Include="Assets\Resources\debris_flow\60.txt" />
+     <None Include="Assets\Resources\debris_flow\58.txt" />
+     <None Include="Assets\TerrainComposer\Update\WorldComposer\last_checked.txt" />
+     <None Include="Assets\Resources\debris_flow\53.txt" />
+     <None Include="Assets\Resources\debris_flow\34.txt" />
+     <None Include="Assets\Resources\debris_flow\21.txt" />
+     <None Include="Assets\TerrainComposer\Templates\Drawing_tc.shader" />
+     <None Include="Assets\Resources\flowClip\ectract_10.txt" />
+     <None Include="Assets\Resources\debris_flow\27.txt" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+     <None Include="Assets\Resources\flowClip\4.txt" />
+     <None Include="Assets\Resources\debris_flow\9.txt" />
+     <None Include="Assets\Resources\store1\18.txt" />
+     <None Include="Assets\Resources\debris_flow\37.txt" />
+     <None Include="Assets\Resources\store1\22.txt" />
+     <None Include="Assets\Resources\debris_flow\26.txt" />
+     <None Include="Assets\Resources\debris_flow\45.txt" />
+     <None Include="Assets\Resources\store1\9.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_24.txt" />
+     <None Include="Assets\Resources\flowClip\ectract_7.txt" />
+     <None Include="Assets\Resources\store1\24.txt" />
+     <None Include="Assets\Resources\debris_flow\2.txt" />
+     <None Include="Assets\Shader.shader" />
+     <None Include="Assets\Resources\flowClip\ectract_28.txt" />
+     <None Include="Assets\Resources\debris_flow\11.txt" />
+     <None Include="Assets\Resources\flowClip\5.txt" />
+     <None Include="Assets\Resources\flowClip\6.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{E4A66062-3EE5-D1CB-373E-56DA901CDDB6}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
