@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0E2CB8D2-F74D-07EB-3E4A-BF0325D9D6B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallController.cs" Line="23" Column="26" />
+      <File FileName="Assets/Scripts/TriggerChecker.cs" Line="33" Column="2" />
+      <File FileName="Assets/Scripts/PlatformSpawner.cs" Line="35" Column="40" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="41" Column="43" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="42" Column="40" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="21" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2692887c-069b-406b-96c3-b95ef161fbf2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
