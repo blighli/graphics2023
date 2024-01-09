@@ -17,16 +17,17 @@ void main()
     float specularStrength = 0.5;
     
     vec3 norm = normalize(Normal);
-
+    //漫反射光照
     vec3 lightDir = normalize(lightPos - FragPos);
-
+    float diff = max(dot(norm, lightDir), 0.0);
+    vec3 diffuse = diff * lightColor;
+    //镜面反射光照
     vec3 viewDir = normalize(viewPos - FragPos);
     vec3 reflectDir = reflect(-lightDir, norm);
     float spec = pow(max(dot(viewDir, reflectDir), 0.0), 32);
     vec3 specular = specularStrength * spec * lightColor;
     
-    float diff = max(dot(norm, lightDir), 0.0);
-    vec3 diffuse = diff * lightColor;
+    //最后结果包含：0.1：环境光照，diffuse：漫反射，specular：镜面反射
     FragColor = vec4((0.1 + diffuse + specular),1.0) * mix(texture(Texture1, TexCoord), texture(Texture2, TexCoord), 0);
     //vec3 result = (0.1 + diffuse + specular) * objectColor;
     //FragColor = vec4(result, 1.0);
