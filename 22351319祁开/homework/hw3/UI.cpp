@@ -64,7 +64,7 @@ void UI::show() {
 		default:
 			break;
 		}
-		ImGui::Text(u8"\n备注：\n多光源通过在着色器中声明常量实现\n因为没有实现阴影，效果并不理想\n"u8);
+		ImGui::Text(u8"\n备注：\n多光源通过在着色器中声明常量实现\n"u8);
 		//if (i >= 0) {
 		//	ImGui::Text(u8"星球名称：%s"u8, objects[i].name.c_str());
 		//	ImGui::Text(u8"坐标：(%6.2f,%6.2f,%6.2f) AU"u8, objects[i].location[0], objects[i].location[1], objects[i].location[2]);

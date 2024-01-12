@@ -443,7 +443,7 @@ void Engine::createDescriptorSetLayout() {
 	uboLayoutBinding.descriptorType = VK_DESCRIPTOR_TYPE_UNIFORM_BUFFER;
 	uboLayoutBinding.descriptorCount = 1;
 	uboLayoutBinding.pImmutableSamplers = nullptr; // Optional
-	uboLayoutBinding.stageFlags = VK_SHADER_STAGE_VERTEX_BIT;
+	uboLayoutBinding.stageFlags = VK_SHADER_STAGE_VERTEX_BIT | VK_SHADER_STAGE_FRAGMENT_BIT;
 
 
 	VkDescriptorSetLayoutBinding samplerLayoutBinding = {};
@@ -457,7 +457,7 @@ void Engine::createDescriptorSetLayout() {
 	uboDynamicLayoutBinding.binding = 1;
 	uboDynamicLayoutBinding.descriptorType = VK_DESCRIPTOR_TYPE_UNIFORM_BUFFER_DYNAMIC;
 	uboDynamicLayoutBinding.descriptorCount = 1;
-	uboDynamicLayoutBinding.stageFlags = VK_SHADER_STAGE_VERTEX_BIT;
+	uboDynamicLayoutBinding.stageFlags = VK_SHADER_STAGE_VERTEX_BIT | VK_SHADER_STAGE_FRAGMENT_BIT;
 	uboDynamicLayoutBinding.pImmutableSamplers = nullptr;
 
 	std::array<VkDescriptorSetLayoutBinding, 3> bindings = { uboLayoutBinding,uboDynamicLayoutBinding,samplerLayoutBinding };
