@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\54381\source\repos\Project1\Project1\Mesh.h(90,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(99,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(147,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(148,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(212,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(213,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(217,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(218,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(220,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(221,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\54381\source\repos\Project1\Project1\源.cpp(230,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\54381\source\repos\Project1\x64\Debug\Project1.exe
