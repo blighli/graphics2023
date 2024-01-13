@@ -1,0 +1,8 @@
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. Geo Regular Font
+
+SIL Open Font License, Version 1.1.
+http://scripts.sil.org/OFL
+Copyright (c) 2000-2010, Ben Weiner (ben@readingtype.org.uk), 
+with Reserved Font Name Geo.

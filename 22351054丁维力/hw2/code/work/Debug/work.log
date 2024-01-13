@@ -1,0 +1,9 @@
+﻿源.obj : error LNK2019: 无法解析的外部符号 __imp__FreeImage_Unload@4，该符号在函数 "unsigned char __cdecl LoadBmp(char const *,struct _AUX_RGBImageRec *)" (?LoadBmp@@YAEPBDPAU_AUX_RGBImageRec@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__FreeImage_Load@12，该符号在函数 "unsigned char __cdecl LoadBmp(char const *,struct _AUX_RGBImageRec *)" (?LoadBmp@@YAEPBDPAU_AUX_RGBImageRec@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__FreeImage_GetFileType@8，该符号在函数 "unsigned char __cdecl LoadBmp(char const *,struct _AUX_RGBImageRec *)" (?LoadBmp@@YAEPBDPAU_AUX_RGBImageRec@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__FreeImage_GetBits@4，该符号在函数 "unsigned char __cdecl LoadBmp(char const *,struct _AUX_RGBImageRec *)" (?LoadBmp@@YAEPBDPAU_AUX_RGBImageRec@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__FreeImage_GetWidth@4，该符号在函数 "unsigned char __cdecl LoadBmp(char const *,struct _AUX_RGBImageRec *)" (?LoadBmp@@YAEPBDPAU_AUX_RGBImageRec@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__FreeImage_GetHeight@4，该符号在函数 "unsigned char __cdecl LoadBmp(char const *,struct _AUX_RGBImageRec *)" (?LoadBmp@@YAEPBDPAU_AUX_RGBImageRec@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__FreeImage_ConvertTo24Bits@4，该符号在函数 "unsigned char __cdecl LoadBmp(char const *,struct _AUX_RGBImageRec *)" (?LoadBmp@@YAEPBDPAU_AUX_RGBImageRec@@@Z) 中被引用
+FreeImage.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+c:\users\public\documents\visual studio 2015\Projects\work\Debug\work.exe : fatal error LNK1120: 7 个无法解析的外部命令
