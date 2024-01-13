@@ -1,0 +1,24 @@
+﻿  Source.cpp
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(458,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(632,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(633,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(637,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(638,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(640,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(641,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(650,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(652,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(785,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(787,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(801,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(803,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(817,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(819,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(833,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(835,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(849,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(851,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(1935,17): warning C4101: 'z': unreferenced local variable
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(1935,14): warning C4101: 'y': unreferenced local variable
+Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\FinalProject\Source.cpp(1935,11): warning C4101: 'x': unreferenced local variable
+  FinalProject.vcxproj -> Z:\SNHU\CS330\Final Project\FinalProjectMilestone-Module6-LightingComplexObjects\Debug\FinalProject.exe
