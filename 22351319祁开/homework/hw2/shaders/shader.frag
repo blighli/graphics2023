@@ -32,10 +32,10 @@ const PointLight light=PointLight(
     vec3(0.,0.,0.),
     1.,
     .09,
-    .032,
+    .0032,
     vec3(.1,.1,.1),
     vec3(.8,.8,.8),
-    vec3(1.,1.,1.)
+    vec3(.5,.5,.5)
 );
 void main(){
     float distance=length(light.position-FragPos);
@@ -44,7 +44,7 @@ void main(){
         vec3 norm=normalize(Normal);
         vec3 viewDir=normalize(ubo.viewPos-FragPos);
         vec3 result=vec3(0.);
-        result+=CalcPointLight(light,norm,FragPos,ubo.viewPos);
+        result+=CalcPointLight(light,norm,FragPos,viewDir);
         outColor=vec4(result,1.);
     }
     else{
@@ -68,6 +68,7 @@ vec3 CalcPointLight(PointLight light,vec3 normal,vec3 fragPos,vec3 viewDir)
     vec3 diffuse=light.diffuse*diff*vec3(texture(texSampler,fragTexCoord));
     vec3 specular=light.specular*spec*vec3(texture(texSampler,fragTexCoord));
     
+    ambient*=attenuation;
     diffuse*=attenuation;
     specular*=attenuation;
     return(ambient+diffuse+specular);
