@@ -10,6 +10,6 @@
 
 效果：
 
-![res1](.\pic\res1.png)
+![res1](./pic/res1.png)
 
-![res1](.\pic\res2.png)
+![res1](./pic/res2.png)
