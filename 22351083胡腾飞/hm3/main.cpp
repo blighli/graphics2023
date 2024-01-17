@@ -355,7 +355,7 @@ void scroll_callback(GLFWwindow* window, double xoffset, double yoffset)
         camera.ProcessMouseScroll(static_cast<float>(yoffset));
     }
     else {
-        if(yoffset > 0)
+        if (yoffset > 0)
             model = glm::scale(model, glm::vec3(0.9f, 0.9f, 0.9f));
         else
             model = glm::scale(model, glm::vec3(1.1f, 1.1f, 1.1f));
